@@ -32,7 +32,7 @@
 **1. 레포지토리 클론 (Clone)**
 ```bash
 git clone [`https://github.com/aboutexo04/dual-lang-ai.git`](https://github.com/aboutexo04/dual-lang-ai.git)
-cd max1-lang-tutor
+cd dual-lang-ai
 ```
 
 **2. 가상환경 생성 및 필수 라이브러리 설치**
